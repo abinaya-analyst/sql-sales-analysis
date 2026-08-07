@@ -7,7 +7,9 @@ This project analyzes a retail sales dataset using SQL (MySQL) to answer busines
 ## 🛠 Tools Used
 
 *MySQL
+
 *SQL: Joins, Aggregate Functions, GROUP BY, ORDER BY, LIMIT, DATE_FORMAT
+
 *Microsoft Excel: Data Cleaning
 
 ## 📊 Business Questions Solved
