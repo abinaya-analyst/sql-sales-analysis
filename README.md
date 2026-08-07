@@ -23,7 +23,9 @@ This project analyzes a retail sales dataset using SQL (MySQL) to answer busines
 ## 🔍 Key Insights
 
 *Identified the highest revenue-generating products.
+
 *Compared regional sales performance across different markets.
+
 *Analyzed monthly sales trends to identify seasonal patterns.
 
 ## 📁 Files Included
