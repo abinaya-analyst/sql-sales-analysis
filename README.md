@@ -2,15 +2,15 @@
 
 ## 📌 Project Overview
 
-This project analyzes a retail sales dataset using SQL (MySQL) to extract meaningful business insights.
+This project analyzes a retail sales dataset using SQL (MySQL) to answer business questions related to sales performance, product categories, regional trends, and customer purchasing patterns. The analysis demonstrates the use of SQL queries to extract actionable business insights.
 
 ## 🛠 Tools Used
 
-* MySQL
-* SQL (Aggregations, GROUP BY, ORDER BY, Date Functions)
-* Excel (Data Cleaning)
+*MySQL
+*SQL: Joins, Aggregate Functions, GROUP BY, ORDER BY, LIMIT, DATE_FORMAT
+*Microsoft Excel: Data Cleaning
 
-## 📊 Analysis Performed
+## 📊 Business Questions Solved
 
 * ✔ Total Sales Calculation
 * ✔ Sales by Region
@@ -20,9 +20,9 @@ This project analyzes a retail sales dataset using SQL (MySQL) to extract meanin
 
 ## 🔍 Key Insights
 
-* Identified top-performing products generating highest revenue
-* Found region-wise sales distribution
-* Analyzed monthly trends to understand seasonality
+*Identified the highest revenue-generating products.
+*Compared regional sales performance across different markets.
+*Analyzed monthly sales trends to identify seasonal patterns.
 
 ## 📁 Files Included
 
@@ -31,5 +31,5 @@ This project analyzes a retail sales dataset using SQL (MySQL) to extract meanin
 
 ## 🚀 Conclusion
 
-This project demonstrates SQL skills in data analysis, including aggregation, grouping, and trend analysis.
+This project demonstrates the application of SQL for business data analysis by solving real-world reporting scenarios using Joins, Aggregate Functions, GROUP BY, ORDER BY, LIMIT, and DATE_FORMAT to generate actionable business insights.
 
